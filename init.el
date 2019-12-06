@@ -18,6 +18,7 @@
 
 ;; chad settings, those who have different ones are inferior beings
 (evil-mode 1) ;keybinds
+(global-display-line-numbers-mode)
 (menu-bar-mode -1) ;; muh minimalism; see lines 25,26
 (setq-default indent-tabs-mode t) ;; tab indents
 (setq make-backup-files nil) ;; Backup files suck. "I don't recommend this last one" - the stackexchange guy who posted this setq
