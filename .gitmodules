@@ -1,3 +1,9 @@
-[submodule "evil"]
-	path = evil
+[submodule "git/undo-tree"]
+	path = git/undo-tree
+	url = http://www.dr-qubit.org/git/undo-tree.git
+[submodule "git/evil"]
+	path = git/evil
 	url = https://github.com/emacs-evil/evil
+[submodule "git/moe-theme.el"]
+	path = git/moe-theme.el
+	url = https://github.com/kuanyui/moe-theme.el
